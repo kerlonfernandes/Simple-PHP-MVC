@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "10.0.0.179",
-        "database": "mytempo",
-        "username": "mytempo_user",
-        "password": "mytempo1"
+        "host": "",
+        "database": "",
+        "username": "",
+        "password": ""
     }
 
 }
